@@ -2,8 +2,10 @@
  - Kotlin 
  - Java
  - Map Integration and Geocoding
- - Intermediate UI
- - Room Database 
+ - Room Database & SQLite
  - Firebase 
  - Rest Api
  - Material Design
+ - Fragments 
+ - Recycler View
+ - XML
