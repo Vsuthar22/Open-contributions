@@ -5,4 +5,5 @@
  - Intermediate UI
  - Room Database 
  - Firebase 
- - Dagger Hilt
+ - Rest Api
+ - Material Design
